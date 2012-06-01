@@ -1,0 +1,3 @@
+#! rails runner
+
+Product.new(:price => "3.5")
